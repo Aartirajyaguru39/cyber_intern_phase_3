@@ -1,0 +1,3 @@
+Lateral Movement via RDP Brute Force
+Simulate how an attacker in Ubuntu (Kali/Ubuntu-based) attempts to brute-force RDP login into a Windows machine using username and password combinations.
+Low-privilege user brute-forces RDP across server using stolen credentials

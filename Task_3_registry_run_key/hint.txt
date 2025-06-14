@@ -1,0 +1,1 @@
+ Persistence via Registry Run Keys - Script added to registry key for persistence

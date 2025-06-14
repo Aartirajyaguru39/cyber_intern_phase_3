@@ -1,0 +1,11 @@
+DNS Tunneling - Data exfiltration via encoded DNS subdomain queries.
+
+[Windows VM]
+    |
+    | DNS Query with Encoded Data
+    V
+[Ubuntu VM (DNS server)]
+    |
+    | Capture Query & Decode Subdomain
+    V
+[Data Reconstructed]

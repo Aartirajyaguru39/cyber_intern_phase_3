@@ -1,0 +1,5 @@
+Credential Dumping and Exfiltration - Mimikatz used to dump LSASS, exfiltration over HTTPS.
+You can detect:
+•	Process access to LSASS (Sysmon Event ID 10)
+•	Suspicious PowerShell (Event IDs 4104, 4103)
+•	HTTPS exfiltration with large POST body
